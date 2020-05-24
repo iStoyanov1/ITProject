@@ -1,0 +1,49 @@
+.create {
+    margin-top: -20%;
+    color: #012e5e;
+    margin-left: 35%;
+}
+
+.registerMain {
+    max-width: 990px;
+    background-color: orange;
+    padding-top: 15%;
+    width: 60%;
+    margin: auto;
+}
+
+.username {
+    margin-left: 35%;
+    width: 30%;
+    border-radius: 2px;
+    height: 30px;
+    margin-top: 20px;
+
+}
+
+.password {
+    margin-left: 35%;
+    width: 30%;
+    border-radius: 2px;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.registerButton{
+    color: white;
+    border: 1px solid orange;
+    border-radius: 1px;
+    display: inline-block;
+    background-color: #012e5e;
+    width: 30%;
+    margin-top: 10%;
+    padding: 10px 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 30px;
+    margin-left: 35%;
+    max-width: 990px;
+    max-height: 990px;
+}
+

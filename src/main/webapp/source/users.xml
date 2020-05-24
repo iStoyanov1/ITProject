@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+    <user>
+        <name>Ivan Petrov</name>
+        <username>Ivan</username>
+        <email>ivan@abv.bg</email>
+        <password>1234</password>
+        <description>I am Ivan and i'm student at Tu-Varna</description>
+        <phone>3598456114722</phone>
+        <city>Varna</city>
+        <address>ul.Studentska, Varna</address>
+        <job>Student</job>
+    </user>
+    <user>
+        <name>Georgi Georgiev</name>
+        <username>georgi1</username>
+        <email>georgi@abv.bg</email>
+        <password>1234</password>
+        <description>I am Georgi and i'm student at Tu-Sofia</description>
+        <phone>3598456114722</phone>
+        <city>Sofia</city>
+        <address>Studentski grad, Sofia</address>
+        <job>Student</job>
+    </user>
+    <user>
+        <name>Mihail Ivanov</name>
+        <username>misho9</username>
+        <email>misho@abv.bg</email>
+        <password>1234</password>
+        <description>I am Mihail and i'm student at Tu-Varna</description>
+        <phone>3598456114722</phone>
+        <city>Varna</city>
+        <address>ul.Studentska, Varna</address>
+        <job>Student</job>
+    </user>
+</users>

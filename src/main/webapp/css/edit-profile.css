@@ -1,0 +1,64 @@
+.mainProfile {
+    border-radius: 5px;
+    max-width: 990px;
+    background-color: #ccc;
+    height: 90%;
+    margin: auto;
+}
+
+svg {
+    height: 120px;
+    width: 120px;
+    margin-top: 50px;
+    margin-left: 75px;
+}
+
+.descriptionTable {
+    margin-left: 50%;
+}
+
+.name {
+    color: #012e5e;
+}
+
+.job {
+    color: #012e5e;
+}
+
+.description {
+    color: #012e5e;
+}
+
+.contacts {
+    color: #012e5e;
+    margin-left: 45%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.containerContacts {
+    max-width: 990px;
+    width: 75%;
+    margin-left: 120px;
+    height: 30%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.create {
+    color: white;
+    border: 1px solid #012e5e;
+    border-radius: 1px;
+    display: inline-block;
+    background-color: #012e5e;
+    width: 30%;
+    margin-top: 10%;
+    padding: 10px 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 30px;
+    margin-left: 35%;
+    max-width: 990px;
+    max-height: 990px;
+}
